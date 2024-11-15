@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0136-single-number) |
+| [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 ## Design
 |  |
 | ------- |
@@ -33,4 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
+## Binary Search
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
