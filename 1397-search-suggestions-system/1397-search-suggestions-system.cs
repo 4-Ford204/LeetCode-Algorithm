@@ -1,20 +1,30 @@
 public class Solution {
     public IList<IList<string>> SuggestedProducts(string[] products, string searchWord) {
-        IList<IList<string>> result = new List<IList<string>>();
+        TrieNode root = new TrieNode();
+        TrieNode node;
+        List<IList<string>> result = new List<IList<string>>();
         Array.Sort(products);
 
-        for (int i = 0; i < searchWord.Length; i++) {
-            List<string> searchResult = new List<string>();
+        foreach (var product in products) {
+            node = root;
 
-            foreach (var product in products) {
-                if (product.Length > i && product[i] == searchWord[i])
-                    searchResult.Add(product);
+            foreach (var i in product) {
+                node = node.Nodes[i - 'a'] ??= new TrieNode();
+                node.Words.Add(product);
             }
+        }
 
-            products = searchResult.ToArray();
-            result.Add(searchResult.Take(3).ToList());
+        node = root;
+        foreach (var i in searchWord) {
+            node = node?.Nodes[i - 'a'];
+            result.Add(node == null ? Array.Empty<string>() : node.Words.Take(3).ToList());
         }
 
         return result;
     }
+}
+
+public class TrieNode {
+    public TrieNode[] Nodes { get; set; } = new TrieNode[26];
+    public HashSet<string> Words { get; set; } = new HashSet<string>();
 }
