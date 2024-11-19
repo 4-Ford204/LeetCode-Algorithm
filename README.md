@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1894-merge-strings-alternately) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Design
 |  |
 | ------- |
