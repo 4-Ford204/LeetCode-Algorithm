@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0806-domino-and-tromino-tiling](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0806-domino-and-tromino-tiling) |
 ## Bit Manipulation
 |  |
 | ------- |
