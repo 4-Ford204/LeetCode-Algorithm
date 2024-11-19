@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0806-domino-and-tromino-tiling) |
+| [0747-min-cost-climbing-stairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
+| [0747-min-cost-climbing-stairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
