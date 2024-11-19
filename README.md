@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
