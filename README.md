@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0001-two-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
+| [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0001-two-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0001-two-sum) |
+| [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
+| [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -89,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
+| [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
