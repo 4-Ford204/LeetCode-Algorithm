@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0806-domino-and-tromino-tiling) |
 | [0747-min-cost-climbing-stairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 | [0747-min-cost-climbing-stairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0001-two-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
+| [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
 ## String
 |  |
 | ------- |
