@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [0739-daily-temperatures](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0739-daily-temperatures) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [0605-can-place-flowers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
