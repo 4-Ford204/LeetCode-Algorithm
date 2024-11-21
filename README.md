@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [0605-can-place-flowers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0605-can-place-flowers) |
 | [0238-product-of-array-except-self](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0605-can-place-flowers) |
+| [0334-increasing-triplet-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
