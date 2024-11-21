@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [0345-reverse-vowels-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0443-string-compression) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1894-merge-strings-alternately) |
 | [0345-reverse-vowels-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
