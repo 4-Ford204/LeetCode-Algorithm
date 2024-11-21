@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [0345-reverse-vowels-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1894-merge-strings-alternately) |
+| [0345-reverse-vowels-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
