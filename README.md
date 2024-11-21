@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [0739-daily-temperatures](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0739-daily-temperatures) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
