@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0806-domino-and-tromino-tiling) |
 | [0747-min-cost-climbing-stairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
+| [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0443-string-compression) |
+| [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0443-string-compression) |
 | [0283-move-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
