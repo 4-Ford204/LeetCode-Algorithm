@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0605-can-place-flowers) |
 | [0238-product-of-array-except-self](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 | [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Stack
 |  |
 | ------- |
