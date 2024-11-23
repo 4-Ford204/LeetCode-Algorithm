@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [0283-move-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0283-move-zeroes) |
+| [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0443-string-compression) |
 | [0283-move-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
+| [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
 ## Stack
 |  |
 | ------- |
