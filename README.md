@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0011-container-with-most-water) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [0643-maximum-average-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -160,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
