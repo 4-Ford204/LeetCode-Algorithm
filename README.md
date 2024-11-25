@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0443-string-compression) |
 | [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Design
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Greedy
 |  |
 | ------- |
