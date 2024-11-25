@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
+| [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
 | [0011-container-with-most-water](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0011-container-with-most-water) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
+| [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
 ## Math
 |  |
 | ------- |
