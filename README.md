@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [0283-move-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0283-move-zeroes) |
 | [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
+| [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
+| [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
+| [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
 ## Stack
 |  |
 | ------- |
