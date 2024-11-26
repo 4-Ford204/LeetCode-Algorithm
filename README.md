@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
 | [1833-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-find-the-highest-altitude) |
+| [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-find-the-highest-altitude) |
+| [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
 ## Graph
 |  |
 | ------- |
