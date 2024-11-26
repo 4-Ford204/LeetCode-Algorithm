@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
