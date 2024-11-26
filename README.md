@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
 | [1833-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
+| [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
+| [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Graph
 |  |
 | ------- |
