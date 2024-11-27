@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
