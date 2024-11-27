@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
+| [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3189-find-champion-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
