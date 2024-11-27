@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
+| [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
 | [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
+| [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
