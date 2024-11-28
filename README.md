@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1036-rotting-oranges) |
 | [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1972-rotating-the-box) |
 | [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
 | [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Stack
 |  |
 | ------- |
@@ -199,8 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3189-find-champion-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Counting
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
