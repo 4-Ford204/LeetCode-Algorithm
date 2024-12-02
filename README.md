@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [0735-asteroid-collision](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0735-asteroid-collision) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
 | [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0011-container-with-most-water) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1798-max-number-of-k-sum-pairs) |
 | [0015-3sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0015-3sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
