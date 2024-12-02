@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0394-decode-string) |
+| [0206-reverse-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -253,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0328-odd-even-linked-list) |
+| [0206-reverse-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
