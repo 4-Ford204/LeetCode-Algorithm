@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [0735-asteroid-collision](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0735-asteroid-collision) |
 | [0394-decode-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0394-decode-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -255,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0206-reverse-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0206-reverse-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
