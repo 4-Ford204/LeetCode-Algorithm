@@ -252,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
