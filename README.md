@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
