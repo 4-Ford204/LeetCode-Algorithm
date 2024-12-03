@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0740-delete-and-earn) |
 | [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [0437-path-sum-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [0437-path-sum-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [0437-path-sum-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
