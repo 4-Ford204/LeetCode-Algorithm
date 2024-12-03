@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [0870-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0870-magic-squares-in-grid) |
+| [0007-reverse-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0007-reverse-integer) |
 ## Breadth-First Search
 |  |
 | ------- |
