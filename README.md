@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0735-asteroid-collision) |
 | [0394-decode-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0394-decode-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
+| [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
+| [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
