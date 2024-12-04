@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0787-sliding-puzzle) |
 | [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Stack
 |  |
 | ------- |
