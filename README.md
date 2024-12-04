@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Counting
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
