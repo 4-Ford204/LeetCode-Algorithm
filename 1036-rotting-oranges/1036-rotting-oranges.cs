@@ -2,9 +2,7 @@ public class Solution {
     public int OrangesRotting(int[][] grid) {
         int m = grid.Length;
         int n = grid[0].Length;
-        int[][] directions = new int[][] {
-            new int[] { -1, 0 }, new int[] { 0, 1 }, new int[] { 1, 0 }, new int[] { 0, -1 }
-        };
+        int[][] directions = [[-1, 0], [0, 1], [1, 0], [0, -1]];
         Queue<(int, int, int)> queue = new Queue<(int, int, int)>();
         int freshOrange = 0;
         int minMinute = 0;
