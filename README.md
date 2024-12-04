@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0735-asteroid-collision) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 ## Counting
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -329,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
+| [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
