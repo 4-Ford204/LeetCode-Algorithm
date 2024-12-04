@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 ## Counting
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0871-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
