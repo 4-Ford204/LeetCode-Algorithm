@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Design
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Math
 |  |
 | ------- |
