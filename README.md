@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2428-equal-row-and-column-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
