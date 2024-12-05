@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2636-maximum-subsequence-score) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2636-maximum-subsequence-score) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Math
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [0735-asteroid-collision](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Prefix Sum
 |  |
 | ------- |
