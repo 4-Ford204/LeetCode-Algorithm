@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [0162-find-peak-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [0374-guess-number-higher-or-lower](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [0162-find-peak-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
