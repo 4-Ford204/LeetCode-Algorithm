@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-find-the-highest-altitude) |
 | [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 ## Graph
 |  |
 | ------- |
