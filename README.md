@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2636-maximum-subsequence-score) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 ## Sliding Window
 |  |
 | ------- |
