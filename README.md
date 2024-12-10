@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0338-counting-bits) |
 | [0136-single-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0136-single-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 | [0035-search-insert-position](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
