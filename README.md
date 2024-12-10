@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 | [0035-search-insert-position](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
+| [3651-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3651-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
