@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Design
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 | [0035-search-insert-position](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1777-determine-if-two-strings-are-close) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Shortest Path
 |  |
 | ------- |
