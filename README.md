@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 | [0035-search-insert-position](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [3651-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3651-transformed-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Greedy
 |  |
 | ------- |
