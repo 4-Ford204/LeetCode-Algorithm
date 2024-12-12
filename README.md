@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3651-transformed-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [0216-combination-sum-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0216-combination-sum-iii) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2636-maximum-subsequence-score) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3651-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3651-transformed-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
