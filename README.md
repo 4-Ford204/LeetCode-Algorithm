@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
+| [1917-maximum-average-pass-ratio](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
+| [1917-maximum-average-pass-ratio](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0649-dota2-senate) |
 | [2636-maximum-subsequence-score](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [1917-maximum-average-pass-ratio](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 ## Two Pointers
 |  |
 | ------- |
