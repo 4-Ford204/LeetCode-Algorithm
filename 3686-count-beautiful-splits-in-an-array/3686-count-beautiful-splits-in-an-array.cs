@@ -15,10 +15,13 @@ public class Solution {
                 int length1 = i;
                 int length2 = j - i;
                 int length3 = n - j;
-                bool first = length1 <= length2 && longestPrefix[i - 1, i - 1 + length1] == length1;
-                bool second = length2 <= length3 && longestPrefix[j - 1, j - 1 + length2] >= length2;
 
-                if (first || second) result++;
+                if (
+                    (length1 <= length2 && longestPrefix[i - 1, i - 1 + length1] == length1) 
+                    || 
+                    (length2 <= length3 && longestPrefix[j - 1, j - 1 + length2] >= length2)
+                ) 
+                    result++;
             }
         }
 
