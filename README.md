@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
 | [1917-maximum-average-pass-ratio](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -444,4 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
