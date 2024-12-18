@@ -1,5 +1,9 @@
 public class Solution {
     public int[] FinalPrices(int[] prices) {
+        return MonotonicStack(prices);
+    }
+
+    private int[] BruteForce(int[] prices) {
         int n = prices.Length;
         int[] answer = new int[n];
         answer[n - 1] = prices[n - 1];
@@ -13,6 +17,22 @@ public class Solution {
                     break;
                 }
             }
+        }
+
+        return answer;
+    }
+
+    private int[] MonotonicStack(int[] prices) {
+        int n = prices.Length;
+        Stack<int> stack = new Stack<int>();
+        int[] answer = new int[n];
+        prices.CopyTo(answer, 0);
+
+        for (int i = 0; i < n; i++) {
+            while (stack.Count > 0 && prices[stack.Peek()] >= prices[i])
+                answer[stack.Pop()] -= prices[i];
+
+            stack.Push(i);
         }
 
         return answer;
