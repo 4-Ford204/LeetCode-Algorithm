@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0094-binary-tree-inorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
