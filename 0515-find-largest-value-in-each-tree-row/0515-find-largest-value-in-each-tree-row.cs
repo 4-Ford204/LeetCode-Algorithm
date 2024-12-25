@@ -14,31 +14,19 @@
 public class Solution {
     public IList<int> LargestValues(TreeNode root) {
         List<int> list = new List<int>();
-        Queue<TreeNode> queue = new Queue<TreeNode>();
-        
-        if (root == null) return list; 
-        else queue.Enqueue(root);
+        DFS(root, 0, list);
 
-        return BFS(list, queue);
+        return list;
     }
 
-    private List<int> BFS(List<int> list, Queue<TreeNode> queue) {
-        if (queue.Count == 0) return list;
+    private void DFS(TreeNode node, int level, List<int> list) {
+        if (node == null) return;
         else {
-            Queue<TreeNode> nextQueue = new Queue<TreeNode>();
-            int max = queue.Peek().val;
+            if (level == list.Count) list.Add(node.val);
+            else list[level] = Math.Max(list[level], node.val);
 
-            while (queue.Count > 0) {
-                TreeNode node = queue.Dequeue();
-                max = Math.Max(max, node.val);
-                if (node.left != null) nextQueue.Enqueue(node.left);
-                if (node.right != null) nextQueue.Enqueue(node.right);
-            }
-
-            list.Add(max);
-            queue = nextQueue;
-
-            return BFS(list, queue);
+            DFS(node.left, level + 1, list);
+            DFS(node.right, level + 1, list);
         }
     }
 }
