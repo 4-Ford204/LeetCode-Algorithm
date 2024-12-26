@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
+| [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
