@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1063-best-sightseeing-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
 | [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1063-best-sightseeing-pair) |
 ## Hash Table
 |  |
 | ------- |
