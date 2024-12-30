@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1063-best-sightseeing-pair) |
+| [2562-count-ways-to-build-good-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2562-count-ways-to-build-good-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
