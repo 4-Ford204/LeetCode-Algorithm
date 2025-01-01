@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Design
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0724-find-pivot-index) |
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Graph
 |  |
 | ------- |
