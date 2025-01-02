@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1063-best-sightseeing-pair) |
 | [1025-minimum-cost-for-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1025-minimum-cost-for-tickets) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [3427-special-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3427-special-array-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Graph
 |  |
 | ------- |
