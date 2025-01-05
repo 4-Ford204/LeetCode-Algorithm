@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0136-single-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2465-shifting-letters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2465-shifting-letters-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Design
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2465-shifting-letters-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Graph
 |  |
 | ------- |
