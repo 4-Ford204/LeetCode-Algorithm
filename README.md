@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2465-shifting-letters-ii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -503,8 +507,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
