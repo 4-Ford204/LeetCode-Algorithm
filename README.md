@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Design
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Linked List
 |  |
 | ------- |
