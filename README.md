@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0952-word-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0952-word-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [0952-word-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0952-word-subsets) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0952-word-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0952-word-subsets) |
 ## Design
 |  |
 | ------- |
