@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [0222-count-complete-tree-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0952-word-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
