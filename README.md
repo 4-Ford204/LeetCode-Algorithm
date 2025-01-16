@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2562-count-ways-to-build-good-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1025-minimum-cost-for-tickets) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Hash Table
 |  |
 | ------- |
