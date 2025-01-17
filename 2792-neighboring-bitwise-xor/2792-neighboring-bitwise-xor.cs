@@ -12,4 +12,6 @@ public class Solution {
         
         return xor == 0;
     }
+
+    public bool Sum(int[] derived) => derived.Sum() % 2 == 0;
 }
