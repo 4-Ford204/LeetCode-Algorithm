@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2792-neighboring-bitwise-xor) |
 | [2685-first-completely-painted-row-or-column](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2685-first-completely-painted-row-or-column](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
