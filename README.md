@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2792-neighboring-bitwise-xor) |
 | [2685-first-completely-painted-row-or-column](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2145-grid-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2685-first-completely-painted-row-or-column](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2145-grid-game) |
 ## Stack
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2465-shifting-letters-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2145-grid-game) |
 ## Graph
 |  |
 | ------- |
