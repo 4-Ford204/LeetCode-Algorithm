@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2792-neighboring-bitwise-xor) |
+| [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
+| [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 ## Design
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0007-reverse-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [0002-add-two-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 ## Prefix Sum
 |  |
 | ------- |
