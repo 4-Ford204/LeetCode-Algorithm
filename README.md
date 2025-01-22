@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1876-map-of-highest-peak) |
+| [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1876-map-of-highest-peak) |
+| [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1876-map-of-highest-peak) |
+| [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 ## Stack
 |  |
 | ------- |
