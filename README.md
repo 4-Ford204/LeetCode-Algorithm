@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2562-count-ways-to-build-good-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1025-minimum-cost-for-tickets) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2145-grid-game) |
 | [1876-map-of-highest-peak](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1876-map-of-highest-peak) |
 | [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 | [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Design
 |  |
 | ------- |
