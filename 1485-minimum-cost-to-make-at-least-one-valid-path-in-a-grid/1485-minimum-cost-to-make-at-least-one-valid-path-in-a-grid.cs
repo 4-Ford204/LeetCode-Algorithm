@@ -3,7 +3,7 @@ public class Solution {
         int m = grid.Length, n = grid[0].Length;
         int[,] cost = new int[m, n];
         var heap = new PriorityQueue<(int, int), int>();
-        int[][] directions =  [[0, 1], [0, -1], [1, 0], [-1, 0]];
+        int[][] directions = [[0, 1], [0, -1], [1, 0], [-1, 0]];
 
         for (int i = 0; i < m; i++)
             for (int j = 0; j < n; j++) cost[i, j] = int.MaxValue;
