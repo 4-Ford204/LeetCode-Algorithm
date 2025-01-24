@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1876-map-of-highest-peak) |
 | [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
 ## Counting
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -586,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
