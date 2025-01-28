@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
