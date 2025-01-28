@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1876-map-of-highest-peak) |
 | [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0547-number-of-provinces) |
 | [0399-evaluate-division](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0399-evaluate-division) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
