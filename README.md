@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3429-special-array-i) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
