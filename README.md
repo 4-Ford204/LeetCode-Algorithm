@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 | [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Shortest Path
 |  |
 | ------- |
