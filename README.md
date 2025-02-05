@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1558-course-schedule-iv) |
 | [0684-redundant-connection](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1558-course-schedule-iv) |
 | [0684-redundant-connection](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0684-redundant-connection) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1558-course-schedule-iv) |
 | [0684-redundant-connection](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0684-redundant-connection) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [0684-redundant-connection](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
