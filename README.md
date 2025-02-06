@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3429-special-array-i) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1927-maximum-ascending-subarray-sum) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1364-tuple-with-same-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1364-tuple-with-same-product](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1364-tuple-with-same-product) |
 ## String
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3455-minimum-length-of-string-after-operations) |
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1364-tuple-with-same-product](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1364-tuple-with-same-product) |
 ## Shortest Path
 |  |
 | ------- |
