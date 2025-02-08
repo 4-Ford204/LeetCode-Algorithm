@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1364-tuple-with-same-product](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1364-tuple-with-same-product) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [0407-trapping-rain-water-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0407-trapping-rain-water-ii) |
+| [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
+| [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
 ## Interactive
 |  |
 | ------- |
