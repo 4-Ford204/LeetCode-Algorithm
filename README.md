@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [0780-max-chunks-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
