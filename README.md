@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0067-add-binary) |
 | [2448-count-number-of-bad-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2448-count-number-of-bad-pairs) |
+| [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3447-clear-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -652,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
