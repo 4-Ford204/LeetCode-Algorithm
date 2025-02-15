@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2448-count-number-of-bad-pairs) |
 | [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Queue
 |  |
 | ------- |
