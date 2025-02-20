@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Monotonic Queue
 |  |
 | ------- |
