@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [1160-letter-tile-possibilities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
