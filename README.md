@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
