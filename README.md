@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-alternating-groups-ii) |
 ## Greedy
 |  |
 | ------- |
