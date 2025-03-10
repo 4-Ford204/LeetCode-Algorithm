@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [1170-shortest-common-supersequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Design
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
 |  |
 | ------- |
