@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-alternating-groups-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-zero-array-transformation-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-zero-array-transformation-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
