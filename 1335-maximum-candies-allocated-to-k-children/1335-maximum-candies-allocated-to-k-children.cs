@@ -11,12 +11,12 @@ public class Solution {
         if (total <= k) return (int)Math.Max(total - k, -1) + 1;
 
         while (left < right) {
-            long piles = 0;
+            total = 0;
             int middle = left + (right - left + 1) / 2;
 
-            foreach (var candy in candies) piles += candy / middle;
+            foreach (var candy in candies) total += candy / middle;
 
-            if (piles >= k) left = middle;
+            if (total >= k) left = middle;
             else right = middle - 1;
         }
 
