@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2690-house-robber-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-zero-array-transformation-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2690-house-robber-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sorting
 |  |
 | ------- |
