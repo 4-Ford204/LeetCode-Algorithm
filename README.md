@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting
 |  |
 | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
