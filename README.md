@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Design
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Counting
 |  |
 | ------- |
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Number Theory
 |  |
 | ------- |
