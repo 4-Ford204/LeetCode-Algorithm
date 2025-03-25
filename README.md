@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3430-count-days-without-meetings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
