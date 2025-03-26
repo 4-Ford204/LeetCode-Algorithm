@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Stack
 |  |
 | ------- |
