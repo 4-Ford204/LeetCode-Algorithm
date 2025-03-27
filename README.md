@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
