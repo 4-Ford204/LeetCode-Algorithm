@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -776,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
