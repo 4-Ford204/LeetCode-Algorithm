@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-partition-array-according-to-given-pivot) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Math
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
 |  |
 | ------- |
@@ -720,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
