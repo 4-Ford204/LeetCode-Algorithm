@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2262-solving-questions-with-brainpower](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2262-solving-questions-with-brainpower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
+| [2262-solving-questions-with-brainpower](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
