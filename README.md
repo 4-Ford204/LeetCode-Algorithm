@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
 | [2262-solving-questions-with-brainpower](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2262-solving-questions-with-brainpower) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
 | ------- |
