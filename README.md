@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2888-minimum-index-of-a-valid-split) |
 | [0768-partition-labels](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## String
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
 |  |
 | ------- |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
