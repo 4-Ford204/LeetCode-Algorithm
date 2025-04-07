@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2262-solving-questions-with-brainpower](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2262-solving-questions-with-brainpower) |
+| [0416-partition-equal-subset-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
