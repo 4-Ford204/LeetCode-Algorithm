@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -810,4 +814,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
