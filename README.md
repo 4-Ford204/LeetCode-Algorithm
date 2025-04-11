@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [0368-largest-divisible-subset](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
+| [2998-count-symmetric-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2998-count-symmetric-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
 |  |
 | ------- |
