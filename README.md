@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [2998-count-symmetric-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2998-count-symmetric-integers) |
+| [0050-powx-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0050-powx-n) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0394-decode-string) |
 | [0206-reverse-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0002-add-two-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0050-powx-n) |
 ## Queue
 |  |
 | ------- |
