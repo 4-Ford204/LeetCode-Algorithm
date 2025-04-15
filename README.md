@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [1656-count-good-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2690-house-robber-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2690-house-robber-iv) |
 | [2665-minimum-time-to-repair-cars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2665-minimum-time-to-repair-cars) |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
 | [2434-design-a-number-container-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2434-design-a-number-container-system) |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -838,4 +842,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
