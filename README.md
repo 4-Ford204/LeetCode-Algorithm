@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [1656-count-good-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1656-count-good-triplets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Greedy
 |  |
 | ------- |
