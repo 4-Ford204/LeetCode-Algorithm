@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
+| [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
+| [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 ## String
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [0768-partition-labels](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
+| [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 ## Two Pointers
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2998-count-symmetric-integers) |
 | [0050-powx-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2050-count-good-numbers) |
+| [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
