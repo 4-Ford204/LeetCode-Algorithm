@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0368-largest-divisible-subset](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2050-count-good-numbers) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
