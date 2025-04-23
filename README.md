@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1500-count-largest-group) |
 ## String
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2050-count-good-numbers) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [1500-count-largest-group](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1500-count-largest-group) |
 ## Breadth-First Search
 |  |
 | ------- |
