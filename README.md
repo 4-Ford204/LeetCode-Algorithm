@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [2249-count-the-hidden-sequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2249-count-the-hidden-sequences) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1500-count-largest-group) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Greedy
 |  |
 | ------- |
