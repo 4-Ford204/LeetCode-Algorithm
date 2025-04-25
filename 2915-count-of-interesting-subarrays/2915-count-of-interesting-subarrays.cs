@@ -13,8 +13,6 @@ public class Solution {
             if (target < 0) target += modulo;
 
             if (seen.TryGetValue(target, out int count)) result += count;
-            
-            if (key < 0) key += modulo;
 
             if (seen.ContainsKey(key)) seen[key]++;
             else seen[key] = 1;
