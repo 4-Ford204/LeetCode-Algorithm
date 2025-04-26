@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2249-count-the-hidden-sequences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2915-count-of-interesting-subarrays) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Greedy
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0649-dota2-senate) |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
 | ------- |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2868-continuous-subarrays) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Rolling Hash
 |  |
 | ------- |
