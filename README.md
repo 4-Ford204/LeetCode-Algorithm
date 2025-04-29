@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Greedy
 |  |
 | ------- |
