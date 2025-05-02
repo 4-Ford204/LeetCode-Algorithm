@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0768-partition-labels) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [0038-count-and-say](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 ## Design
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [0768-partition-labels](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
+| [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 ## Math
 |  |
 | ------- |
