@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Two Pointers
 |  |
 | ------- |
