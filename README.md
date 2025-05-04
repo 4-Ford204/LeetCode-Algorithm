@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2915-count-of-interesting-subarrays) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## String
 |  |
 | ------- |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1160-letter-tile-possibilities) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Shortest Path
 |  |
 | ------- |
