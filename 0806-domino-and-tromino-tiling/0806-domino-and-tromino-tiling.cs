@@ -6,8 +6,8 @@ public class Solution {
         dpd[1] = 1;
 
         for (int i = 2; i <= n; i++) {
-            dpd[i] = (2 * dpt[i - 1] + dpd[i - 1] + dpd[i - 2]) % modulo;
-            dpt[i] = (dpt[i - 1] + dpd[i - 2]) % modulo;
+            dpd[i] = (dpt[i - 1] + dpd[i - 1] + dpd[i - 2]) % modulo;
+            dpt[i] = (dpt[i - 1] + dpd[i - 2] * 2) % modulo;
         }
 
         return (int)dpd[n];
