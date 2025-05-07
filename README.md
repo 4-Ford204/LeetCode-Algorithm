@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [0038-count-and-say](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
+| [0058-length-of-last-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
 ## Design
 |  |
 | ------- |
