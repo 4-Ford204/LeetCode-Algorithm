@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 | [0058-length-of-last-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
+| [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 ## Design
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [1500-count-largest-group](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1500-count-largest-group) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
