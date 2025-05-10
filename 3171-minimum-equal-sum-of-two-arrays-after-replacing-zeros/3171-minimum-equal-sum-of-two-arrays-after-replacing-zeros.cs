@@ -4,15 +4,23 @@ public class Solution {
         long s1 = 0, s2 = 0;
 
         foreach (var num in nums1) {
-            if (num == 0) z1++;
-            else s1 += num;
+            s1 += num;
+
+            if (num == 0) {
+                z1++;
+                s1++;
+            }
         }
 
         foreach (var num in nums2) {
-            if (num == 0) z2++;
-            else s2 += num;
+            s2 += num;
+            
+            if (num == 0) {
+                z2++;
+                s2++;
+            }
         }
 
-        return ((z1 == 0 && z2 + s2 > s1) || (z2 == 0 && z1 + s1 > s2)) ? - 1 : Math.Max(z1 + s1, z2 + s2);
+        return (z1 == 0 && s2 > s1) || (z2 == 0 && s1 > s2) ? - 1 : Math.Max(s1, s2);
     }
 }
