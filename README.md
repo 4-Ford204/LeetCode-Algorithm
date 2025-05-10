@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2048-build-array-from-permutation) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
 | [0797-rabbits-in-forest](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
 |  |
 | ------- |
