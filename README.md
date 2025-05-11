@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [1293-three-consecutive-odds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
