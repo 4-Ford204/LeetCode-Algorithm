@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [1293-three-consecutive-odds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1293-three-consecutive-odds) |
+| [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2915-count-of-interesting-subarrays) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
 | [0368-largest-divisible-subset](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2998-count-symmetric-integers) |
 | [1656-count-good-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 ## Combinatorics
 |  |
 | ------- |
