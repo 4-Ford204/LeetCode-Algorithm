@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2915-count-of-interesting-subarrays) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 | [0058-length-of-last-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1500-count-largest-group) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
 | ------- |
