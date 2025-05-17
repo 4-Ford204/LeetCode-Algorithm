@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0368-largest-divisible-subset) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
+| [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
+| [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
