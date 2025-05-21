@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3639-zero-array-transformation-i) |
+| [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
 ## Stack
 |  |
 | ------- |
