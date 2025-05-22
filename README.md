@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3639-zero-array-transformation-i) |
 | [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 | [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2915-count-of-interesting-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
 | ------- |
