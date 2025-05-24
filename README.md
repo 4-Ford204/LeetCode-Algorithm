@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3639-zero-array-transformation-i) |
 | [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
+| [3194-find-words-containing-character](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3194-find-words-containing-character) |
 ## Design
 |  |
 | ------- |
