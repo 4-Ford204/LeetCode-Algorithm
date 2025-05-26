@@ -1,35 +1,25 @@
 public class Solution {
     public int LongestPalindrome(string[] words) {
-        int ans = 0;
-        Dictionary<string, int> wordCountMap = new();
+        int[,] visited = new int[26, 26];
+        int result = 0;
 
-        foreach(var word in words){
-            string rev = $"{word[1]}{word[0]}";
+        foreach (var word in words) {
+            var i = word[0] - 'a';
+            var j = word[1] - 'a';
 
-            if(wordCountMap.ContainsKey(rev)){
-                wordCountMap[rev]--;
-                
-                if(wordCountMap[rev] == 0){
-                    wordCountMap.Remove(rev);
-                }
-
-                ans += 4;
-                continue;
-            }
-
-            if(!wordCountMap.ContainsKey(word))
-                wordCountMap.Add(word, 0);
-
-            wordCountMap[word]++;
+            if (visited[j, i] != 0) {
+                visited[j, i]--;
+                result += 4;
+            } else visited[i, j]++;
         }
 
-        foreach(var kvp in wordCountMap){
-            if(kvp.Key[0] == kvp.Key[1] && (kvp.Value&1) != 0){
-                ans += 2;
+        for (int i = 0; i < 26; i++) {
+            if (visited[i, i] != 0) {
+                result += 2;
                 break;
             }
         }
 
-        return ans;
+        return result;
     }
 }
