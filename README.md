@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Counting
 |  |
 | ------- |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Tree
 |  |
 | ------- |
