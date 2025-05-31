@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 | [3194-find-words-containing-character](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [0945-snakes-and-ladders](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0945-snakes-and-ladders) |
 ## Hash Table
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [0945-snakes-and-ladders](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
 | ------- |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0945-snakes-and-ladders) |
 ## Stack
 |  |
 | ------- |
