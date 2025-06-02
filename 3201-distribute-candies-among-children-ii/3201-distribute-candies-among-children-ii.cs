@@ -10,7 +10,7 @@ public class Solution {
     private long Enumeration(int n, int limit) {
         long result = 0;
 
-        for (int i = 0; i <= Math.Min(n ,limit); i++) {
+        for (int i = 0; i <= Math.Min(n, limit); i++) {
             if (n - i > 2 * limit) continue;
             result += Math.Min(n - i, limit) - Math.Max(0, n - i - limit) + 1;
         }
