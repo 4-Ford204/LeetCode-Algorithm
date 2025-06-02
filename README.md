@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3321-type-of-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3321-type-of-triangle) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -957,12 +958,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2998-count-symmetric-integers) |
 | [1656-count-good-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
+| [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
