@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3194-find-words-containing-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 | [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Math
 |  |
 | ------- |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
 |  |
 | ------- |
