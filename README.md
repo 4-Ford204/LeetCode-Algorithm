@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [0386-lexicographical-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [0386-lexicographical-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
