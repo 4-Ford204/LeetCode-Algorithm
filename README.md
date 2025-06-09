@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [0386-lexicographical-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Binary Search
 |  |
 | ------- |
