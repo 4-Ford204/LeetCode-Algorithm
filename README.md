@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [0135-candy](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0135-candy) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
