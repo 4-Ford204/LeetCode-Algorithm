@@ -1,15 +1,25 @@
 public class Solution {
     public int MinMaxDifference(int num) {
-        string s = num.ToString();
-        string t = s;
-        int pos = 0;
-        while (pos < s.Length && s[pos] == '9') {
-            pos++;
+        string minNumber = num.ToString(), maxNumber = num.ToString();
+
+        minNumber = Replace(minNumber, minNumber[0], '0');
+
+        foreach (var digit in maxNumber) {
+            if (digit != '9') {
+                maxNumber = Replace(maxNumber, digit, '9');
+                break;
+            }
         }
-        if (pos < s.Length) {
-            s = s.Replace(s[pos], '9');
-        }
-        t = t.Replace(t[0], '0');
-        return int.Parse(s) - int.Parse(t);
+
+        return int.Parse(maxNumber) - int.Parse(minNumber);
+    }
+
+    private string Replace(string number, char digit, char replacement) {
+        StringBuilder builder = new StringBuilder();
+
+        foreach (var num in number)
+            builder.Append(num == digit ? replacement : num);
+
+        return builder.ToString();
     }
 }
