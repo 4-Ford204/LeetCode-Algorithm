@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Two Pointers
 |  |
 | ------- |
