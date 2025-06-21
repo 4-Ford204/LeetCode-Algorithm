@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Design
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Shortest Path
 |  |
 | ------- |
