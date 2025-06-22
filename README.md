@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Design
 |  |
 | ------- |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2048-build-array-from-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Prefix Sum
 |  |
 | ------- |
