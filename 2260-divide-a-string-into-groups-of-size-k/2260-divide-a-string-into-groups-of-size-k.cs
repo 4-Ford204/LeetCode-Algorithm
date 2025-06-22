@@ -1,21 +1,23 @@
 public class Solution {
     public string[] DivideString(string s, int k, char fill) {
-        int n = s.Length, i = 1;
-        string[] result = new string[(int)Math.Ceiling(n * 1.0 / k)];
-        StringBuilder builder = new StringBuilder();
-        builder.Append(s[0]);
+        int count = 0;
+        char[] word = new char[k];
+        string[] result = new string[(s.Length + k - 1) / k];
 
-        for (; i < n; i++) {
-            if (i % k == 0) {
-                result[(i - 1) / k] = builder.ToString();
-                builder.Clear(); 
+        for (int i = 0; i < s.Length; i++) {
+            word[count++] = s[i];
+
+            if (count == k) {
+                result[i / k] = new string(word);
+                count = 0;
             }
-            builder.Append(s[i]);
         }
 
-        for (int j = 0; j < (k - (i % k)) % k; j++) builder.Append(fill);
+        if (count > 0 && count < k) {
+            for (int i = k - 1; i >= count; i--) word[i] = fill;
+            result[^1] = new string(word);
+        }
 
-        result[result.Length - 1] = builder.ToString();
         return result;
     }
 }
