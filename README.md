@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-push-dominoes) |
 | [0075-sort-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0075-sort-colors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Math
 |  |
 | ------- |
