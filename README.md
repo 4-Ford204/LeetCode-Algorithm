@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [0670-maximum-swap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0670-maximum-swap) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
 |  |
 | ------- |
