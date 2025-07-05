@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
