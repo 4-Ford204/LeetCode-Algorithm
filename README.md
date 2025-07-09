@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [0670-maximum-swap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0670-maximum-swap) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
 | ------- |
