@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0670-maximum-swap) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0206-reverse-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0002-add-two-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
 |  |
 | ------- |
