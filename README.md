@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [0978-valid-mountain-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0978-valid-mountain-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Hash Table
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3617-find-the-original-typed-string-i) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Design
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [0386-lexicographical-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Search
 |  |
 | ------- |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [0386-lexicographical-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
