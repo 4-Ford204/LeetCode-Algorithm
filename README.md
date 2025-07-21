@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3617-find-the-original-typed-string-i) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Design
 |  |
 | ------- |
