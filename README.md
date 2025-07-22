@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0027-remove-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [0027-remove-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
