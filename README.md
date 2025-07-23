@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3617-find-the-original-typed-string-i) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0670-maximum-swap) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
