@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0027-remove-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0027-remove-element) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
