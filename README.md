@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0027-remove-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0088-merge-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0088-merge-sorted-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
