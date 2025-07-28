@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Array
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0088-merge-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0088-merge-sorted-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
