@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
