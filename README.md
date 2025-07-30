@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
 | [0088-merge-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Math
 |  |
 | ------- |
