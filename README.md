@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Hash Table
 |  |
 | ------- |
