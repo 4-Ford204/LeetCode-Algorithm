@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0118-pascals-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0118-pascals-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0118-pascals-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
