@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0118-pascals-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0118-pascals-triangle) |
 | [0940-fruit-into-baskets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-fruit-into-baskets) |
+| [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
 | [0088-merge-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
+| [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
 ## Breadth-First Search
 |  |
 | ------- |
