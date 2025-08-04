@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0118-pascals-triangle) |
 | [0940-fruit-into-baskets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
+| [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0940-fruit-into-baskets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-fruit-into-baskets) |
+| [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [0088-merge-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 ## Quickselect
 |  |
 | ------- |
