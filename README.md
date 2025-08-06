@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 | [3790-fruits-into-baskets-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3791-fruits-into-baskets-iii) |
+| [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 ## Trie
 |  |
 | ------- |
@@ -1121,12 +1123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3791-fruits-into-baskets-iii) |
+| [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 ## Merge Sort
 |  |
 | ------- |
