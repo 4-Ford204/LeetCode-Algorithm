@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0118-pascals-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
 | [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
+| [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1142,4 +1144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
