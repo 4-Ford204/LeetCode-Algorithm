@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
+| [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3791-fruits-into-baskets-iii) |
 | [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
