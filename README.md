@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0231-power-of-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0371-sum-of-two-integers) |
 | [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
 | [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
+| [0231-power-of-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [0231-power-of-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
