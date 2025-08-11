@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0231-power-of-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 ## Array
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
+| [2529-range-product-queries-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
+| [2529-range-product-queries-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 ## Graph
 |  |
 | ------- |
