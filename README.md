@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
 | [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Bit Manipulation
 |  |
 | ------- |
