@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [0047-permutations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0047-permutations-ii) |
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
+| [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0342-power-of-four](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1178,4 +1182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
