@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0134-gas-station) |
+| [1448-maximum-69-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0342-power-of-four](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+| [1448-maximum-69-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1448-maximum-69-number) |
 ## Breadth-First Search
 |  |
 | ------- |
