@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
 | [0055-jump-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0055-jump-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0940-fruit-into-baskets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-fruit-into-baskets) |
+| [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
 ## Greedy
 |  |
 | ------- |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [1448-maximum-69-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1448-maximum-69-number) |
+| [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1182,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
 ## Counting Sort
 |  |
 | ------- |
