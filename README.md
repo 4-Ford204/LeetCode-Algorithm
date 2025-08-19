@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0134-gas-station](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0134-gas-station) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [1448-maximum-69-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1448-maximum-69-number) |
 | [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
