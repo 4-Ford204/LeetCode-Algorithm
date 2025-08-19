@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+| [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 ## Design
 |  |
 | ------- |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1448-maximum-69-number) |
 | [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2432-number-of-zero-filled-subarrays) |
+| [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 ## Breadth-First Search
 |  |
 | ------- |
