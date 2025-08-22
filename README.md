@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0134-gas-station) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2432-number-of-zero-filled-subarrays) |
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
 |  |
 | ------- |
