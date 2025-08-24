@@ -1,18 +1,16 @@
 public class Solution {
     public int LongestSubarray(int[] nums) {
-        int tracking = 0;
-        int nextTracking = 0;
-        int max = 0;
+        int previous = 0, current = 0, result = 0;
 
         for (int i = 0; i < nums.Length; i++) {
             if (nums[i] == 0) {
-                tracking = nextTracking;
-                nextTracking = i + 1;
+                previous = current;
+                current = i + 1;
             }
 
-            max = Math.Max(max, i - tracking);
+            result = Math.Max(result, i - previous);
         }
 
-        return max;
+        return result;
     }
 }
