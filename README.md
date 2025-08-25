@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
 ## Stack
 |  |
 | ------- |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3790-fruits-into-baskets-ii) |
+| [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
 ## Prefix Sum
 |  |
 | ------- |
