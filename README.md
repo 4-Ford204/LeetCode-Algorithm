@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
+| [0006-zigzag-conversion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0006-zigzag-conversion) |
 ## Design
 |  |
 | ------- |
