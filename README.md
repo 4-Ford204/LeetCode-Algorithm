@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
