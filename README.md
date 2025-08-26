@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 | [0006-zigzag-conversion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 ## Design
 |  |
 | ------- |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0047-permutations-ii) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
+| [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
