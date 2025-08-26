@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
