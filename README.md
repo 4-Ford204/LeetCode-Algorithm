@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 | [0006-zigzag-conversion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
 | ------- |
