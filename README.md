@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
+| [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 ## Shortest Path
 |  |
 | ------- |
