@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0125-valid-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0189-rotate-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
