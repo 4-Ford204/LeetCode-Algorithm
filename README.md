@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
+| [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
+| [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
