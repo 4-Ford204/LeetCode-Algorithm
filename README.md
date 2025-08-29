@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
+| [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
+| [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
 ## Design
 |  |
 | ------- |
