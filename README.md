@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0290-word-pattern) |
 ## Design
 |  |
 | ------- |
