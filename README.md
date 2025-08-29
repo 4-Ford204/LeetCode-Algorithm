@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0290-word-pattern) |
+| [0242-valid-anagram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 | [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0290-word-pattern) |
+| [0242-valid-anagram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
 | [0049-group-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0049-group-anagrams) |
 | [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
+| [0242-valid-anagram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
