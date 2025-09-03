@@ -1,28 +1,22 @@
 public class Solution {
     public double MaxAverageRatio(int[][] classes, int extraStudents) {
-        PriorityQueue<(int, int), double> heap = new PriorityQueue<(int, int), double>();
-        double totalRatio = 0;
+        int n  = classes.Length;
+        var heap = new PriorityQueue<(int pass, int total), double>(n);
 
-        foreach (var @class in classes) {
-            int pass = @class[0], total = @class[1];
-            double current = (double)pass / total;
-            double next = (double)(pass + 1) / (total + 1);
-            heap.Enqueue((pass, total), -(next - current));
+        foreach (var item in classes) {
+            var (pass, total) = (item[0], item[1]);
+            heap.Enqueue((pass, total), -NextRatio(pass, total));
         }
 
-        while (extraStudents > 0) {
+        while (extraStudents-- > 0) {
             var (pass, total) = heap.Dequeue();
-            double current = (double)(pass + 1) / (total + 1);
-            double next = (double)(pass + 2) / (total + 2);
-            heap.Enqueue((pass + 1, total + 1), -(next - current));
-            extraStudents--;
+            heap.Enqueue((++pass, ++total), -NextRatio(pass, total));
         }
 
-        while (heap.Count > 0) {
-            var (pass, total) = heap.Dequeue();
-            totalRatio += (double)pass / total;
-        }
+        return heap.UnorderedItems.Sum(x => (double)x.Element.pass / x.Element.total) / n;
+    }
 
-        return totalRatio / classes.Length;
+    private double NextRatio(int pass, int total) {
+        return (double)(pass + 1) / (total + 1) - (double)pass / total;
     }
 }
