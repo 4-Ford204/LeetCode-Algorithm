@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
 | [0228-summary-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0228-summary-ranges) |
+| [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0290-word-pattern) |
 | [0242-valid-anagram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0242-valid-anagram) |
+| [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
 | [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
+| [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 ## Stack
 |  |
 | ------- |
