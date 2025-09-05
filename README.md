@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0231-power-of-two) |
 | [2529-range-product-queries-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [0342-power-of-four](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0342-power-of-four) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Array
 |  |
 | ------- |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Combinatorics
 |  |
 | ------- |
