@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0228-summary-ranges) |
 | [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0054-spiral-matrix) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0012-integer-to-roman) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3830-find-closest-person) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
