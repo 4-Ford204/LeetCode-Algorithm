@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0054-spiral-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3830-find-closest-person) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3748-sort-matrix-by-diagonals) |
 | [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0054-spiral-matrix) |
+| [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 ## Stack
 |  |
 | ------- |
