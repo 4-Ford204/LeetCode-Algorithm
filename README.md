@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3830-find-closest-person) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
