@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0242-valid-anagram) |
 | [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0242-valid-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
@@ -985,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Shortest Path
 |  |
 | ------- |
