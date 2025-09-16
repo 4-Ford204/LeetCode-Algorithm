@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [0940-fruit-into-baskets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
+| [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
