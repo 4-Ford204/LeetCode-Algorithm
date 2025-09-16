@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0054-spiral-matrix) |
 | [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
 ## Stack
 |  |
 | ------- |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0054-spiral-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0054-spiral-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
 | ------- |
