@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1222,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Enumeration
 |  |
 | ------- |
