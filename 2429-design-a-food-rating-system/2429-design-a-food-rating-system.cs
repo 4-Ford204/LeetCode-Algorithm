@@ -6,7 +6,7 @@ public class FoodRatings {
     public FoodRatings(string[] foods, string[] cuisines, int[] ratings) {
         for (int i = 0; i < foods.Length; i++) {
             if (!queue.ContainsKey(cuisines[i]))
-                queue.Add(cuisines[i], new PriorityQueue<(string,int), (int,string)>());
+                queue.Add(cuisines[i], new PriorityQueue<(string, int), (int, string)>());
             
             queue[cuisines[i]].Enqueue((foods[i], ratings[i]), (-ratings[i], foods[i]));
             cuisine[foods[i]] = cuisines[i];
