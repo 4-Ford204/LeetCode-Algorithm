@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
+| [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 ## Design
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
+| [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 ## Trie
 |  |
 | ------- |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1177,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3791-fruits-into-baskets-iii) |
+| [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 ## Interactive
 |  |
 | ------- |
