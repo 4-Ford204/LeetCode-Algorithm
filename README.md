@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3797-design-spreadsheet) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
+| [0141-linked-list-cycle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0165-compare-version-numbers) |
+| [0141-linked-list-cycle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0002-add-two-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [0141-linked-list-cycle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0141-linked-list-cycle) |
 ## Tree
 |  |
 | ------- |
