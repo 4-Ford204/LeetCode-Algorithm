@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3797-design-spreadsheet) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 | [0141-linked-list-cycle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 ## String
 |  |
 | ------- |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3797-design-spreadsheet) |
 | [0165-compare-version-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 ## Design
 |  |
 | ------- |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0048-rotate-image) |
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [0166-fraction-to-recurring-decimal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 ## Breadth-First Search
 |  |
 | ------- |
