@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0120-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0120-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Hash Table
 |  |
 | ------- |
