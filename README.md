@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-largest-perimeter-triangle) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0054-spiral-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 | [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
