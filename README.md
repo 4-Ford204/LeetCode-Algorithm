@@ -831,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
+| [1642-water-bottles](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1642-water-bottles) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
+| [1642-water-bottles](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1642-water-bottles) |
 ## Prefix Sum
 |  |
 | ------- |
