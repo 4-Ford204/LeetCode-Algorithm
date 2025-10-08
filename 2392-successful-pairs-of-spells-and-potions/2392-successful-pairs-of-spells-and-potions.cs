@@ -1,32 +1,25 @@
 public class Solution {
     public int[] SuccessfulPairs(int[] spells, int[] potions, long success) {
         Array.Sort(potions);
-        var n = spells.Length;
-        var m = potions.Length;
-        var pairs = new int[n];
+        int n = spells.Length, m = potions.Length;
+        var result = new int[n];
 
         for (int i = 0; i < n; i++) {
-            if ((long)spells[i] * potions[m - 1] < success)
-                pairs[i] = 0;
-            else {
-                var left = 0;
-                var right = m - 1;
+            if ((long)spells[i] * potions[m - 1] >= success) { 
+                int left = 0, right = m - 1;
 
                 while (left <= right) {
-                    var middle = left + (right - left) / 2;
+                    var middle = (right - left) / 2 + left;
                     var product = (long)spells[i] * potions[middle];
 
-                    if (product < success) {
-                        left = middle + 1;
-                    } else if (product >= success) {
-                        right = middle - 1;
-                    }
+                    if (product < success) left = middle + 1;
+                    else right = middle - 1;
                 }
 
-                pairs[i] = m - right - 1;
+                result[i] = m - left;
             }
         }
 
-        return pairs;
+        return result;
     }
 }
