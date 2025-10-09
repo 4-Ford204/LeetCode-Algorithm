@@ -1,16 +1,20 @@
 public class Solution {
     public long MinTime(int[] skill, int[] mana) {
         int n = skill.Length, m = mana.Length;
-        var dp = new long[n + 1];
+        var sum = (long)skill[0] * mana[0];
+        var prefix = new long[n];
 
-        for (int j = 0; j < m; j++) {
-            for (int i = 0; i < n; i++)
-                dp[i + 1] = Math.Max(dp[i + 1], dp[i]) + skill[i] * mana[j];
+        for (int i = 1; i < n; i++) prefix[i] = prefix[i - 1] + skill[i];
 
-            for (int i = n - 1; i > 0; i--)
-                dp[i] = dp[i + 1] - skill[i] * mana[j];
+        for (int j = 1; j < m; j++) {
+            var max = (long)skill[0] * mana[j];
+
+            for (int i = 1; i < n; i++)
+                max = Math.Max(max, prefix[i] * mana[j - 1] - prefix[i - 1] * mana[j]);
+
+            sum += max;
         }
 
-        return dp[^1];
+        return sum + prefix[^1] * mana[^1];
     }
 }
