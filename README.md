@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
 | ------- |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3647-zero-array-transformation-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Graph
 |  |
 | ------- |
