@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
