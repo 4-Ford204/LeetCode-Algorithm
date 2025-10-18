@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
