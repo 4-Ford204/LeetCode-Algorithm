@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0166-fraction-to-recurring-decimal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3336-water-bottles-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1314,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2610-closest-prime-numbers-in-range) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1335,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-count-number-of-balanced-permutations) |
 | [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
