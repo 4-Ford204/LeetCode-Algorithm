@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3336-water-bottles-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0383-ransom-note) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1281,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [0047-permutations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0047-permutations-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1331,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [0900-reordered-power-of-2](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0900-reordered-power-of-2) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
