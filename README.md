@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Design
 |  |
 | ------- |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0289-game-of-life) |
 | [3797-design-spreadsheet](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3797-design-spreadsheet) |
 | [0417-pacific-atlantic-water-flow](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
