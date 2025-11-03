@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0120-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Design
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
 | ------- |
