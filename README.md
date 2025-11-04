@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3678-design-task-manager) |
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0867-new-21-game) |
 | [0219-contains-duplicate-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
