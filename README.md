@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [2288-count-operations-to-obtain-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2288-count-operations-to-obtain-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
+| [2288-count-operations-to-obtain-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2288-count-operations-to-obtain-zero) |
 ## Prefix Sum
 |  |
 | ------- |
