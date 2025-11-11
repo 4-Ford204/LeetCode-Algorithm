@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
 ## Design
 |  |
 | ------- |
