@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Design
 |  |
 | ------- |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Shortest Path
 |  |
 | ------- |
