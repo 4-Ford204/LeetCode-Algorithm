@@ -1438,4 +1438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0830-largest-triangle-area) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
