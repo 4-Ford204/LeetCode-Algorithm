@@ -1448,4 +1448,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0596-classes-with-at-least-5-students) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1317-monthly-transactions-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
