@@ -1,5 +1,4 @@
 /* Write your T-SQL query statement below */
-
 SELECT customer_number
 FROM
 (
