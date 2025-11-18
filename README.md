@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2625-increment-submatrices-by-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2625-increment-submatrices-by-one) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Hash Table
 |  |
 | ------- |
