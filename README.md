@@ -1457,4 +1457,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1415-students-and-examinations) |
 | [1135-customers-who-bought-all-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1135-customers-who-bought-all-products) |
 | [0608-tree-node](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0608-tree-node) |
+| [1480-movie-rating](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
