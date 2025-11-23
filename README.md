@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
