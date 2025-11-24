@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3676-smallest-number-with-all-set-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Array
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
 | ------- |
