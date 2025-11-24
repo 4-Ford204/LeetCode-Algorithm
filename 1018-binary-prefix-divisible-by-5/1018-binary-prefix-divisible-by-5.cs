@@ -1,11 +1,11 @@
 public class Solution {
     public IList<bool> PrefixesDivBy5(int[] nums) {
-        int current = 0;
-        var result = new List<bool>();
+        int n = nums.Length, current = 0;
+        var result = new bool[n];
 
-        foreach (var num in nums) {
-            current = ((current << 1) + num) % 5;
-            result.Add(current == 0);
+        for (int i = 0; i < n; i++) {
+            current = ((current << 1) + nums[i]) % 5;
+            result[i] = current == 0;
         }
 
         return result;
