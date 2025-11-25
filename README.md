@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
