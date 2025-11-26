@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
