@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2625-increment-submatrices-by-one) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
