@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2625-increment-submatrices-by-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
