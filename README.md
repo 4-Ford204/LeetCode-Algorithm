@@ -1234,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
