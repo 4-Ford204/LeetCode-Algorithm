@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
 | ------- |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
 | ------- |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Two Pointers
 |  |
 | ------- |
