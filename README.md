@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1468,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 ## Database
 |  |
 | ------- |
