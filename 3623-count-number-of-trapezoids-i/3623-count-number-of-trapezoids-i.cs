@@ -1,24 +1,21 @@
 public class Solution {
     public int CountTrapezoids(int[][] points) {
-        Dictionary<int, int> pointNum = new Dictionary<int, int>();
-        const int mod = 1000000007;
-        long ans = 0, sum = 0;
+        int modulo = 1_000_000_007;
+        var group = new Dictionary<int, int>();
+        long result = 0, prefix = 0;
 
-        foreach (int[] point in points) {
-            int y = point[1];
-            if (pointNum.ContainsKey(y)) {
-                pointNum[y]++;
-            } else {
-                pointNum[y] = 1;
-            }
+        foreach (var point in points) {
+            int key = point[1];
+            if (!group.ContainsKey(key)) group[key] = 0;
+            group[key]++; 
         }
 
-        foreach (int pNum in pointNum.Values) {
-            long edge = (long)pNum * (pNum - 1) / 2;
-            ans = (ans + edge * sum) % mod;
-            sum = (sum + edge) % mod;
+        foreach (var value in group.Values) {
+            var pair = (long)value * (value - 1) / 2;
+            result = (result + prefix * pair) % modulo;
+            prefix = (prefix + pair) % modulo;
         }
 
-        return (int)ans;
+        return (int)result;
     }
 }
