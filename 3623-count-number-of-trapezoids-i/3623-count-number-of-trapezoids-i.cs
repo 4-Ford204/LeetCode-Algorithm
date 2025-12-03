@@ -6,8 +6,11 @@ public class Solution {
 
         foreach (var point in points) {
             int key = point[1];
-            if (!group.ContainsKey(key)) group[key] = 0;
-            group[key]++; 
+
+            if (group.ContainsKey(key))
+                group[key]++;
+            else
+                group[key] = 1;
         }
 
         foreach (var value in group.Values) {
