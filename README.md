@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2211-count-collisions-on-a-road](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 ## Design
 |  |
 | ------- |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2211-count-collisions-on-a-road](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2288-count-operations-to-obtain-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2211-count-collisions-on-a-road](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
 |  |
 | ------- |
