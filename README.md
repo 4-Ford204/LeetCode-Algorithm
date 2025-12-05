@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
 | [2625-increment-submatrices-by-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Graph
 |  |
 | ------- |
