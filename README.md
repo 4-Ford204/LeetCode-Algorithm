@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -1173,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
 ## Shortest Path
 |  |
 | ------- |
