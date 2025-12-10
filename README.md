@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1925-count-square-sum-triples) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1444,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3201-distribute-candies-among-children-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
