@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2211-count-collisions-on-a-road](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3606-coupon-code-validator) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Design
 |  |
 | ------- |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1925-count-square-sum-triples) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3433-count-mentions-per-user](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3433-count-mentions-per-user) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Breadth-First Search
 |  |
 | ------- |
