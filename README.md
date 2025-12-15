@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3433-count-mentions-per-user](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3606-coupon-code-validator) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3433-count-mentions-per-user](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3433-count-mentions-per-user) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Breadth-First Search
 |  |
 | ------- |
