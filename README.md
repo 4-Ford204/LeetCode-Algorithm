@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3606-coupon-code-validator) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [0944-delete-columns-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0944-delete-columns-to-make-sorted) |
+| [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 ## Hash Table
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3433-count-mentions-per-user](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3606-coupon-code-validator) |
+| [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3678-design-task-manager) |
 | [1612-avoid-flood-in-the-city](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1612-avoid-flood-in-the-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 ## Sliding Window
 |  |
 | ------- |
