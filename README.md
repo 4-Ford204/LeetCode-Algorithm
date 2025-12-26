@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0944-delete-columns-to-make-sorted) |
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3606-coupon-code-validator) |
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
 | ------- |
