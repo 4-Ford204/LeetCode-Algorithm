@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2625-increment-submatrices-by-one) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
