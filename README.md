@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3606-coupon-code-validator) |
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
+| [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 ## String
 |  |
 | ------- |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3433-count-mentions-per-user) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2625-increment-submatrices-by-one) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 ## Stack
 |  |
 | ------- |
