@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
