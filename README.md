@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
 | [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## String
 |  |
 | ------- |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1357,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1381,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
