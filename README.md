@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1975-maximum-matrix-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
+| [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
 ## Sorting
 |  |
 | ------- |
