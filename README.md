@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
+| [1929-concatenation-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1149,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3433-count-mentions-per-user) |
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
+| [1929-concatenation-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
