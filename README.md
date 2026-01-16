@@ -1580,4 +1580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0608-tree-node) |
 | [1480-movie-rating](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1480-movie-rating) |
 | [0178-rank-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0178-rank-scores) |
+| [0262-trips-and-users](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
