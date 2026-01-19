@@ -1582,4 +1582,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0178-rank-scores) |
 | [0262-trips-and-users](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0262-trips-and-users) |
 | [0180-consecutive-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0180-consecutive-numbers) |
+| [0585-investments-in-2016](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
