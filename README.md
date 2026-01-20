@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3676-smallest-number-with-all-set-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Array
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
 | [1929-concatenation-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1929-concatenation-of-array) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
