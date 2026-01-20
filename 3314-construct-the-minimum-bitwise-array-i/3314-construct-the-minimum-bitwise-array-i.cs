@@ -4,7 +4,7 @@ public class Solution {
 
         for (int i = 0; i < nums.Count; i++) {
             int n = nums[i];
-            ans[i] = n != 2 ? n - ((n + 1) & (-n - 1)) / 2 : -1;
+            ans[i] = n != 2 ? n - (((n + 1) & -(n + 1)) >> 1) : -1;
         }
 
         return ans;
