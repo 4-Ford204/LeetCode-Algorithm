@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |
