@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Recursion
 |  |
 | ------- |
@@ -1608,4 +1610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
