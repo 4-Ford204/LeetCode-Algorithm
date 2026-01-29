@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1200-minimum-absolute-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1200-minimum-absolute-difference) |
+| [1470-shuffle-the-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
