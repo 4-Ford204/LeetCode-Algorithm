@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
 | [0485-max-consecutive-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1200-minimum-absolute-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1200-minimum-absolute-difference) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1532,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [1925-count-square-sum-triples](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Combinatorics
 |  |
 | ------- |
