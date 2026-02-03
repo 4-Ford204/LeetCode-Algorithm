@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
 | [0485-max-consecutive-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
