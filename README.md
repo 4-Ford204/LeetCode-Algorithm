@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-trionic-array-i) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1200-minimum-absolute-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
