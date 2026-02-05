@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3637-trionic-array-i) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
+| [3379-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1180,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
 | [1929-concatenation-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1929-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3379-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
