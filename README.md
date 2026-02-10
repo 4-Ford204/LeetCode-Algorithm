@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 | [3379-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
+| [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph
 |  |
 | ------- |
@@ -1455,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1569,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3791-fruits-into-baskets-iii) |
 | [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
