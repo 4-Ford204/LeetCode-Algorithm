@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 | [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [0944-delete-columns-to-make-sorted](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0944-delete-columns-to-make-sorted) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1557,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [1925-count-square-sum-triples](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
 |  |
 | ------- |
