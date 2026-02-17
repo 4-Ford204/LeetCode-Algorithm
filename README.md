@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [0645-set-mismatch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0645-set-mismatch) |
 | [0190-reverse-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0401-binary-watch) |
 ## Array
 |  |
 | ------- |
@@ -1511,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [0047-permutations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0047-permutations-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
+| [0401-binary-watch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0401-binary-watch) |
 ## Monotonic Queue
 |  |
 | ------- |
