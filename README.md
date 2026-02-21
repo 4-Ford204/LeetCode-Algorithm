@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Array
 |  |
 | ------- |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1390-four-divisors) |
 | [1266-minimum-time-visiting-all-points](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Breadth-First Search
 |  |
 | ------- |
