@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Shortest Path
 |  |
 | ------- |
