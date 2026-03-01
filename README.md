@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Design
 |  |
 | ------- |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3075-maximize-happiness-of-selected-children) |
 | [1975-maximum-matrix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1975-maximum-matrix-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Two Pointers
 |  |
 | ------- |
