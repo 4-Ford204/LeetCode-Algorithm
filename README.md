@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1975-maximum-matrix-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 | [1975-maximum-matrix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1975-maximum-matrix-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Stack
 |  |
 | ------- |
