@@ -1057,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1266-minimum-time-visiting-all-points) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2485-find-the-pivot-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2485-find-the-pivot-integer) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
+| [2485-find-the-pivot-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2485-find-the-pivot-integer) |
 ## Graph
 |  |
 | ------- |
