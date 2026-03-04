@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3379-transformed-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
 | ------- |
