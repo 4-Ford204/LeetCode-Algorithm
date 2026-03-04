@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0840-magic-squares-in-grid) |
 | [1975-maximum-matrix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1975-maximum-matrix-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Stack
 |  |
 | ------- |
