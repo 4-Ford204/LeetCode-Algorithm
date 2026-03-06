@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [0636-exclusive-time-of-functions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0636-exclusive-time-of-functions) |
 ## Hash Table
 |  |
 | ------- |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [1441-build-an-array-with-stack-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0636-exclusive-time-of-functions) |
 ## Monotonic Stack
 |  |
 | ------- |
