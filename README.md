@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0636-exclusive-time-of-functions) |
+| [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -1546,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0047-permutations-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [0401-binary-watch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Queue
 |  |
 | ------- |
