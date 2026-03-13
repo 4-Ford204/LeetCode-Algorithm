@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0636-exclusive-time-of-functions) |
 | [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2054-two-best-non-overlapping-events) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1070,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2485-find-the-pivot-integer) |
 | [0009-palindrome-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0263-ugly-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
