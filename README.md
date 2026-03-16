@@ -1075,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0263-ugly-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [0728-self-dividing-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0728-self-dividing-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
