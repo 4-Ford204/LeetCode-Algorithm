@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Stack
 |  |
 | ------- |
@@ -1287,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [2485-find-the-pivot-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2485-find-the-pivot-integer) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Graph
 |  |
 | ------- |
