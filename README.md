@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-flip-square-submatrix-vertically) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-flip-square-submatrix-vertically) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -1296,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2485-find-the-pivot-integer) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 ## Graph
 |  |
 | ------- |
