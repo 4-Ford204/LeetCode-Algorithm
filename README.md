@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0263-ugly-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [0728-self-dividing-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0728-self-dividing-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1181,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
 | ------- |
@@ -1262,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
 |  |
 | ------- |
