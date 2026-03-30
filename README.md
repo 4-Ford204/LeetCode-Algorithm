@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Design
 |  |
 | ------- |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
