@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Design
 |  |
 | ------- |
