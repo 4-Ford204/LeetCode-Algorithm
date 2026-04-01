@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [0728-self-dividing-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0728-self-dividing-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
 | ------- |
@@ -1633,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
