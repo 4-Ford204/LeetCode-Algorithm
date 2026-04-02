@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
