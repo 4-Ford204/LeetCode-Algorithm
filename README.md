@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -1219,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0636-exclusive-time-of-functions) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
