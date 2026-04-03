@@ -1,16 +1,22 @@
 public class Solution {
     public int[] DailyTemperatures(int[] temperatures) {
-        if (temperatures.Length == 0) return new int[] { 0 };
-
         int n = temperatures.Length;
-        Stack<int> stack = new Stack<int>();
-        int[] answer = new int[n];
+        var answer = new int[n];
 
-        for (int i = n - 1; i >= 0; i--) {
-            while (stack.Count > 0 && temperatures[i] >= temperatures[stack.Peek()]) 
-                stack.Pop();
-            answer[i] = stack.Count == 0 ? 0 : stack.Peek() - i;
-            stack.Push(i);
+        for (int i = n - 2; i >= 0; i--) {
+            int j = i + 1;
+
+            while (true) {
+                if (temperatures[j] > temperatures[i]) {
+                    answer[i] = j - i;
+                    break;
+                }
+                else if (answer[j] == 0) {
+                    answer[i] = 0;
+                    break;
+                }
+                else j += answer[j];
+            }
         }
 
         return answer;
