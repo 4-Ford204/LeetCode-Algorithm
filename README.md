@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0874-walking-robot-simulation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0874-walking-robot-simulation) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0874-walking-robot-simulation) |
 | [0657-robot-return-to-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0657-robot-return-to-origin) |
 | [2069-walking-robot-simulation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1570,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [0190-reverse-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0190-reverse-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
