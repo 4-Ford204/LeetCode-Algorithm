@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [0874-walking-robot-simulation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0874-walking-robot-simulation) |
+| [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3797-design-spreadsheet) |
 | [2069-walking-robot-simulation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2069-walking-robot-simulation-ii) |
+| [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 ## Trie
 |  |
 | ------- |
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 ## Tree
 |  |
 | ------- |
@@ -1754,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 ## Graph Theory
 |  |
 | ------- |
