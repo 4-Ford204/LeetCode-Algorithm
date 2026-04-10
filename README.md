@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0874-walking-robot-simulation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0874-walking-robot-simulation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [0874-walking-robot-simulation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0874-walking-robot-simulation) |
 | [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
