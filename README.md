@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0636-exclusive-time-of-functions) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1295,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0657-robot-return-to-origin) |
 | [2069-walking-robot-simulation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1424,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
