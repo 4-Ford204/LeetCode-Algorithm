@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [0657-robot-return-to-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0657-robot-return-to-origin) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Design
 |  |
 | ------- |
