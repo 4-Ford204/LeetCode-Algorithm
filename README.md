@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0611-valid-triangle-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-flip-square-submatrix-vertically) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
 | ------- |
