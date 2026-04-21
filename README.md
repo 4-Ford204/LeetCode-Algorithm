@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [0657-robot-return-to-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0657-robot-return-to-origin) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1259,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
