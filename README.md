@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3797-design-spreadsheet) |
 | [2069-walking-robot-simulation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2069-walking-robot-simulation-ii) |
 | [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Trie
 |  |
 | ------- |
@@ -1247,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0084-largest-rectangle-in-histogram](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
+| [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Data Stream
 |  |
 | ------- |
