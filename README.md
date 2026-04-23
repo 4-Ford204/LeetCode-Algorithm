@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
 ## String
 |  |
 | ------- |
@@ -1360,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [2906-construct-product-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
+| [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
 ## Graph
 |  |
 | ------- |
