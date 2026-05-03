@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2833-furthest-point-from-origin) |
+| [0796-rotate-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0796-rotate-string) |
 ## Design
 |  |
 | ------- |
@@ -1470,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0796-rotate-string) |
 ## Linked List
 |  |
 | ------- |
