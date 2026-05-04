@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [0788-rotated-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0788-rotated-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
+| [0788-rotated-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0788-rotated-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
