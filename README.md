@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
+| [1046-last-stone-weight](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [1046-last-stone-weight](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
 | ------- |
