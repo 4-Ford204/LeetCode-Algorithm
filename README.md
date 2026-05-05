@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-flip-square-submatrix-vertically) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -1492,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
+| [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
 ## Tree
 |  |
 | ------- |
