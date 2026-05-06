@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
 | [1046-last-stone-weight](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-last-stone-weight) |
 | [0396-rotate-function](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0396-rotate-function) |
+| [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3643-flip-square-submatrix-vertically) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
 ## Stack
 |  |
 | ------- |
