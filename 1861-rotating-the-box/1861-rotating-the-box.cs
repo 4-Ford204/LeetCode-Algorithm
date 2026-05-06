@@ -5,7 +5,7 @@ public class Solution {
 
         for (int i = 0; i < n; i++) {
             result[i] = new char[m];
-            Array.Fill(result[i], '.');
+            for (int j = 0; j < m; j++) result[i][j] = '.';
         }
 
         for (int i = 0; i < m; i++) {
