@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [0788-rotated-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0788-rotated-digits) |
 | [0396-rotate-function](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0396-rotate-function) |
+| [3660-jump-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3660-jump-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-last-stone-weight) |
 | [0396-rotate-function](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0396-rotate-function) |
 | [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
+| [3660-jump-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
