@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
 | [3660-jump-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3660-jump-game-ix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2553-separate-the-digits-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1339,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
+| [2553-separate-the-digits-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
