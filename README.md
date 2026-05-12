@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3660-jump-game-ix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2553-separate-the-digits-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Two Pointers
 |  |
 | ------- |
