@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3453-separate-squares-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
