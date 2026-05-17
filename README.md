@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
