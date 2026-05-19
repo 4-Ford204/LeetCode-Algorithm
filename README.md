@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
