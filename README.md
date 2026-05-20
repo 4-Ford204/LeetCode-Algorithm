@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1009-complement-of-base-10-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1009-complement-of-base-10-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
