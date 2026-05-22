@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
+| [0033-search-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
