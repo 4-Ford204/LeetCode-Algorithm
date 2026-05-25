@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0396-rotate-function) |
 | [3660-jump-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3660-jump-game-ix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2833-furthest-point-from-origin) |
 | [0796-rotate-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 ## Design
 |  |
 | ------- |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
+| [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -1411,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [2615-sum-of-distances](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2615-sum-of-distances) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 ## Graph
 |  |
 | ------- |
