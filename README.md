@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
 | [0788-rotated-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0788-rotated-digits) |
 | [0396-rotate-function](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0396-rotate-function) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
