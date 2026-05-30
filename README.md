@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1046-last-stone-weight](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-last-stone-weight) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Sliding Window
 |  |
 | ------- |
