@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2126-destroying-asteroids](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2126-destroying-asteroids) |
 ## Hash Table
 |  |
 | ------- |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2126-destroying-asteroids](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2126-destroying-asteroids) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2126-destroying-asteroids](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2126-destroying-asteroids) |
 ## Two Pointers
 |  |
 | ------- |
