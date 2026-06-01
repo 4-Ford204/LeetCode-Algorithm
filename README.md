@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
