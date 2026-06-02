@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2126-destroying-asteroids](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2126-destroying-asteroids) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 | [0033-search-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2126-destroying-asteroids](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2126-destroying-asteroids) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2126-destroying-asteroids](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2126-destroying-asteroids) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1083,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
