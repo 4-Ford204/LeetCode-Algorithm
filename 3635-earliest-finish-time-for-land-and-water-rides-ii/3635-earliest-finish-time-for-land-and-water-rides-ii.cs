@@ -1,20 +1,23 @@
 public class Solution {
     public int EarliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
-        return Math.Min(
-            FinishTime(landStartTime, landDuration, waterStartTime, waterDuration),
-            FinishTime(waterStartTime, waterDuration, landStartTime, landDuration)
-        );
+        int land = Finish(landStartTime, landDuration, 0);
+        int water = Finish(waterStartTime, waterDuration, 0);
+        int land_water = Finish(waterStartTime, waterDuration, land);
+        int water_land = Finish(landStartTime, landDuration, water);
+        
+        return Math.Min(land_water, water_land);
     }
 
-    private int FinishTime(int[] start1, int[] duration1, int[] start2, int[] duration2) {
-        int finish1 = int.MaxValue, finish2 = int.MaxValue;
+    private int Finish(int[] start, int[] duration, int end) {
+        int finish = int.MaxValue;
 
-        for (int i = 0; i < start1.Length; i++)
-            finish1 = Math.Min(finish1, start1[i] + duration1[i]);
+        for (int i = 0; i < start.Length; i++) {
+            finish = Math.Min(
+                finish,
+                Math.Max(end, start[i]) + duration[i]
+            );
+        }
         
-        for (int i = 0; i < start2.Length; i++)
-            finish2 = Math.Min(finish2, Math.Max(start2[i], finish1) + duration2[i]);
-        
-        return finish2;
+        return finish;
     }
 }
