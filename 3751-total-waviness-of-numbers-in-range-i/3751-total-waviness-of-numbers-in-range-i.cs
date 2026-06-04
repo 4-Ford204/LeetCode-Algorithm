@@ -1,7 +1,7 @@
 public class Solution {
     public int TotalWaviness(int num1, int num2) {
         int result = 0;
-        var dp = new int[100_001];
+        var dp = new int[num2 + 1];
 
         for (int num = 0; num <= num2 / 10; num++)
             CountWaviness(num, dp);
