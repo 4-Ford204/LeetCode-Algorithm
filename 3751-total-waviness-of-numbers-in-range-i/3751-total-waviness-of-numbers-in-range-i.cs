@@ -20,7 +20,7 @@ public class Solution {
         int k = (num / 100) % 10;
         
         dp[num] = dp[num / 10] + (
-            (i < j && j > k) | (i > j && j < k) ? 1 : 0
+            (i < j && j > k) || (i > j && j < k) ? 1 : 0
         );
 
         return dp[num];
