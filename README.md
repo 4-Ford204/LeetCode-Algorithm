@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3660-jump-game-ix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0788-rotated-digits) |
 | [0396-rotate-function](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0396-rotate-function) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1791,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
