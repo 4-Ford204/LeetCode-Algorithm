@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
