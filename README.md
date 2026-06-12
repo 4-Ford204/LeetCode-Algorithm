@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1046-last-stone-weight](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1046-last-stone-weight) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Sliding Window
 |  |
 | ------- |
