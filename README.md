@@ -1103,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -1341,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 | [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
