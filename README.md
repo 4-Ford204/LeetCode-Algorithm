@@ -1104,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -1577,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 | [0061-rotate-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0061-rotate-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
