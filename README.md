@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [3838-weighted-word-mapping](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3838-weighted-word-mapping) |
+| [1732-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -1459,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
+| [1732-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Graph
 |  |
 | ------- |
