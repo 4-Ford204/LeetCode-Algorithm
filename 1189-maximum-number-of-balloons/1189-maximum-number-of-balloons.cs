@@ -16,7 +16,9 @@ public class Solution {
         arr[2] /= 2;
         arr[3] /= 2;
 
-        foreach (var item in arr) result = Math.Min(result, item);
+        foreach (var item in arr) {
+            if (item < result) result = item;
+        }
 
         return result;
     }
