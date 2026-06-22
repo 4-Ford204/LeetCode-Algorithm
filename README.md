@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3838-weighted-word-mapping](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3612-process-string-with-special-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3612-process-string-with-special-operations-i) |
+| [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 ## Design
 |  |
 | ------- |
@@ -1519,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2833-furthest-point-from-origin) |
+| [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 ## Shortest Path
 |  |
 | ------- |
