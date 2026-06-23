@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3612-process-string-with-special-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3612-process-string-with-special-operations-i) |
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
+| [0520-detect-capital](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0520-detect-capital) |
 ## Design
 |  |
 | ------- |
