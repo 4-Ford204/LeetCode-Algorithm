@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3838-weighted-word-mapping) |
 | [1732-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -1467,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [1732-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph
 |  |
 | ------- |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2833-furthest-point-from-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1723,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
 | [0190-reverse-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1846,10 +1851,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3791-fruits-into-baskets-iii) |
 | [0307-range-sum-query-mutable](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
 | ------- |
