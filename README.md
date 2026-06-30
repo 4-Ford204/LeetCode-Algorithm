@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0520-detect-capital) |
 | [0482-license-key-formatting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0482-license-key-formatting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Design
 |  |
 | ------- |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
 | [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
