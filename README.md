@@ -1277,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -1682,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1930,4 +1932,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
