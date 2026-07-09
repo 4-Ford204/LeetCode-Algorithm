@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1288-remove-covered-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1936,8 +1939,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
