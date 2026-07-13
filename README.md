@@ -1847,6 +1847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3713-longest-balanced-substring-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [1291-sequential-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1291-sequential-digits) |
 ## Combinatorics
 |  |
 | ------- |
