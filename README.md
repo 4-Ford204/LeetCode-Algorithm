@@ -1240,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1827,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
