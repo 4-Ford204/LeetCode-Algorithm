@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1288-remove-covered-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1241,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1829,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
