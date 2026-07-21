@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0482-license-key-formatting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
 | ------- |
@@ -1856,6 +1857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [1291-sequential-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
