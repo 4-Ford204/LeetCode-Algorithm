@@ -11,7 +11,7 @@ public class Solution {
 
         while (i < n) {
             int start = i;
-            
+
             while (i < n && s[i] == s[start]) i++;
 
             if (s[start] == '0') {
