@@ -1289,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -1652,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1697,6 +1699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1723,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
