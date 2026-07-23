@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1009-complement-of-base-10-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Array
 |  |
 | ------- |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Breadth-First Search
 |  |
 | ------- |
