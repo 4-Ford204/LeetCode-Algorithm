@@ -925,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1288-remove-covered-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1288-remove-covered-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1248,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
