@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [1288-remove-covered-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
