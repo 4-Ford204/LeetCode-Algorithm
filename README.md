@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
