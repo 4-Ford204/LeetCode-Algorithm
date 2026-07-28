@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1918,6 +1920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
 |  |
 | ------- |
