@@ -5,8 +5,7 @@ public class Solution {
 
         foreach (var character in word) arr[character - 'a']++;
 
-        Array.Sort(arr);
-        Array.Reverse(arr);
+        Array.Sort(arr, (x, y) => y.CompareTo(x));
 
         for (int i = 0; i < arr.Length; i++) result += arr[i] * (i / 8 + 1);
 
