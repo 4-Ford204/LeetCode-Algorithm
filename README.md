@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3689-maximum-total-subarray-value-i) |
 | [1833-maximum-ice-cream-bars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1571,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2833-furthest-point-from-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
 |  |
 | ------- |
