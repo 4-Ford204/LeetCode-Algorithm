@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1942,6 +1945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 ## Geometry
 |  |
 | ------- |
