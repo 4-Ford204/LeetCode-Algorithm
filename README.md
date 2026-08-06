@@ -1274,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1893,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [1291-sequential-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Combinatorics
 |  |
 | ------- |
