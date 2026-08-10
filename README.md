@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1951,6 +1953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -1996,4 +1999,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
