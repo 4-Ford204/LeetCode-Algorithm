@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
