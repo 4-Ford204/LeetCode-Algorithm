@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1599,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1965,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Geometry
 |  |
 | ------- |
@@ -2014,10 +2019,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -2026,4 +2033,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
