@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
