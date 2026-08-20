@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1501,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3612-process-string-with-special-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3612-process-string-with-special-operations-i) |
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
