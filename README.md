@@ -1298,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Breadth-First Search
 |  |
 | ------- |
