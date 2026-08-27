@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -1719,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1792,11 +1794,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0783-search-in-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0450-delete-node-in-a-bst) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -1823,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
