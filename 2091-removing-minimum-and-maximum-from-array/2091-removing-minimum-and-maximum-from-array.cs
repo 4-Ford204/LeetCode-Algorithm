@@ -9,6 +9,6 @@ public class Solution {
 
         int L = Math.Min(min, max), R = Math.Max(min, max);
         
-        return Math.Min(Math.Min(R + 1, n - L),L + 1 + n - R);
+        return Math.Min(Math.Min(R + 1, n - L), L + 1 + n - R);
     }
 }
