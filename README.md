@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
