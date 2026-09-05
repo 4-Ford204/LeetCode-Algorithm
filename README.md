@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1562,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [1732-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 ## Graph
 |  |
 | ------- |
