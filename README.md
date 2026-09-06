@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
+| [0115-distinct-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0115-distinct-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1927-sum-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [0115-distinct-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0115-distinct-subsequences) |
 ## Design
 |  |
 | ------- |
