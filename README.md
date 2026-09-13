@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
+| [0835-image-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1861-rotating-the-box) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
+| [0835-image-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0835-image-overlap) |
 ## Stack
 |  |
 | ------- |
