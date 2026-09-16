@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 | [0115-distinct-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1321,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3870-count-commas-in-range](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3870-count-commas-in-range) |
 | [0836-rectangle-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3904-smallest-stable-index-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Graph
 |  |
 | ------- |
@@ -1964,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Indexed Tree
 |  |
 | ------- |
