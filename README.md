@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [0835-image-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -1060,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
