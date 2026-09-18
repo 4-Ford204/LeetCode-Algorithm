@@ -1373,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -1747,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1794,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1823,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
