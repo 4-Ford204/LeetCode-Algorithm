@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [0115-distinct-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-distinct-subsequences-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -1535,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3612-process-string-with-special-operations-i) |
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
