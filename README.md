@@ -2060,6 +2060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0585-investments-in-2016) |
 | [0184-department-highest-salary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0184-department-highest-salary) |
 | [1070-product-sales-analysis-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1070-product-sales-analysis-iii) |
+| [1587-bank-account-summary-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1587-bank-account-summary-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
