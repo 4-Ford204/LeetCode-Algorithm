@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3525-find-x-value-of-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -1335,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Breadth-First Search
 |  |
 | ------- |
