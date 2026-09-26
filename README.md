@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3525-find-x-value-of-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Design
 |  |
 | ------- |
