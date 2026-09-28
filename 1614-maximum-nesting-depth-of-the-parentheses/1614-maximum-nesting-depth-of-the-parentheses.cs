@@ -3,10 +3,8 @@ public class Solution {
         int count = 0, result = 0;
 
         for (int i = 0; i < s.Length; i++) {
-            if (s[i] == '(') count++;
-            if (s[i] == ')') count--;
-
-            result = Math.Max(result, count);
+            if (s[i] == '(') result = Math.Max(result, ++count);
+            else if (s[i] == ')') count--;        
         }
 
         return result;
