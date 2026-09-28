@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2107,4 +2109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
