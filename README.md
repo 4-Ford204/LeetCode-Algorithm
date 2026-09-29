@@ -2087,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [1615-maximal-network-rank](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1615-maximal-network-rank) |
 ## Union-Find
 |  |
 | ------- |
