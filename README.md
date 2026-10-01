@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -1480,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2117,4 +2119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
