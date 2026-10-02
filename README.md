@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -1918,6 +1920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2174-next-greater-numerically-balanced-number) |
 | [0401-binary-watch](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1980-find-unique-binary-string) |
+| [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2120,4 +2123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
