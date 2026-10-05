@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -1484,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2124,4 +2126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
