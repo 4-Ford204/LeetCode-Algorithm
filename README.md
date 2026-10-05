@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1486,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2127,4 +2131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
