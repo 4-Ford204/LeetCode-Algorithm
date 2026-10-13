@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
