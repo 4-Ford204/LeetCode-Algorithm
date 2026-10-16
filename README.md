@@ -2099,6 +2099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0184-department-highest-salary) |
 | [1070-product-sales-analysis-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1070-product-sales-analysis-iii) |
 | [1587-bank-account-summary-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1587-bank-account-summary-ii) |
+| [0182-duplicate-emails](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0182-duplicate-emails) |
 ## Doubly-Linked List
 |  |
 | ------- |
