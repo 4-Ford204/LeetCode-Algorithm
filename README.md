@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
