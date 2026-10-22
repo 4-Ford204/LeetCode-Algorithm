@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
