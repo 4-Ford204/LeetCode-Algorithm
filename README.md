@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Array
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
