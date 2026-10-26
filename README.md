@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -1410,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
 | [0835-image-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0835-image-overlap) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -1841,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2124,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
 |  |
 | ------- |
