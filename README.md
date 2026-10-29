@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0856-score-of-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2409-count-days-spent-together) |
 ## Design
 |  |
 | ------- |
@@ -1368,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [2409-count-days-spent-together](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2409-count-days-spent-together) |
 ## Breadth-First Search
 |  |
 | ------- |
