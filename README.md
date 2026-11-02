@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [2409-count-days-spent-together](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2409-count-days-spent-together) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
