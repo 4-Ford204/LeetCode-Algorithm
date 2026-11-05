@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1243,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
