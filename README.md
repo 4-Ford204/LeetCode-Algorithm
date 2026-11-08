@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -1430,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0835-image-overlap) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Stack
 |  |
 | ------- |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [2029-stone-game-ix](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2029-stone-game-ix) |
+| [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1865,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2150,6 +2155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Minimax
 |  |
 | ------- |
