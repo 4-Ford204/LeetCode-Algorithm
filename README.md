@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1267-count-servers-that-communicate](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1267-count-servers-that-communicate) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Hash Table
 |  |
 | ------- |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1949,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3678-design-task-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Interactive
 |  |
 | ------- |
