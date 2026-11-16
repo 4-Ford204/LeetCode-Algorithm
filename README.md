@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [2409-count-days-spent-together](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -1611,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
