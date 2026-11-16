@@ -4,10 +4,10 @@ public class Solution {
             var group = new StringBuilder();
 
             for (int i = 0; i < s.Length; i += k) {
-                var sum = 0;
+                int sum = 0;
+                int end = Math.Min(i + k, s.Length);
 
-                for (int j = 0; j < k && i + j < s.Length; j++)
-                    sum += int.Parse(s[i + j].ToString());
+                for (int j = i; j < end; j++) sum += s[j] - '0';
 
                 group.Append(sum);
             }
