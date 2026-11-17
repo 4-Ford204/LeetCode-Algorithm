@@ -14,7 +14,7 @@ public class Solution {
             int result = 0;
 
             foreach (int count in map.Values) {
-                if((count / min) < (count % min)) {
+                if ((count / min) < (count % min)) {
                     result = 0;
                     break;
                 }
@@ -22,9 +22,9 @@ public class Solution {
                 result += (count + min) / (min + 1);
             }
 
-            if (result > 0) return result;
-
             min--;
+            
+            if (result > 0) return result;
         }
 
         return -1;
