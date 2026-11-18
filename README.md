@@ -854,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Design
 |  |
 | ------- |
