@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
