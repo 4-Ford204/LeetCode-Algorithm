@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [0191-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
@@ -1958,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0191-number-of-1-bits) |
 ## Quickselect
 |  |
 | ------- |
