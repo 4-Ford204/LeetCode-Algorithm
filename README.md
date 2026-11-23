@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2069-walking-robot-simulation-ii) |
 | [0146-lru-cache](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -1400,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1672,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 ## Graph
 |  |
 | ------- |
@@ -1779,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 ## String Matching
 |  |
 | ------- |
