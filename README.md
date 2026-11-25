@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2044,6 +2047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
@@ -2069,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Combinatorics
 |  |
 | ------- |
