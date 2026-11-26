@@ -1407,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3360-stone-removal-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-stone-removal-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1628,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
