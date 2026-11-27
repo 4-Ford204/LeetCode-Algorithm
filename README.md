@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
