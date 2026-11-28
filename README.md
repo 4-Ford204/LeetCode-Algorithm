@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/4-Ford204/LeetCode-Algorithm/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
